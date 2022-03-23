@@ -1,0 +1,49 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'13'
+-sourcepath
+'D:/FP/ED/deposito/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/FP/ED/deposito/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'deposito 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/13/docs/api' 'D:/FP/ED/deposito/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'deposito 1.0-SNAPSHOT API'
+cuentas
+'D:/FP/ED/deposito/src/main/java/cuentas/CCuenta.java'
+'D:/FP/ED/deposito/src/main/java/cuentas/Main.java'
+D:\FP\ED\deposito\src\main\java = 1648000709604
+D:\FP\ED\deposito\target\site\apidocs\allclasses-index.html = 1648004628441
+D:\FP\ED\deposito\target\site\apidocs\allpackages-index.html = 1648004628441
+D:\FP\ED\deposito\target\site\apidocs\constant-values.html = 1648004628111
+D:\FP\ED\deposito\target\site\apidocs\deprecated-list.html = 1648004628313
+D:\FP\ED\deposito\target\site\apidocs\element-list = 1648004628049
+D:\FP\ED\deposito\target\site\apidocs\help-doc.html = 1648004628456
+D:\FP\ED\deposito\target\site\apidocs\index-all.html = 1648004628410
+D:\FP\ED\deposito\target\site\apidocs\index.html = 1648004628456
+D:\FP\ED\deposito\target\site\apidocs\member-search-index.js = 1648004628410
+D:\FP\ED\deposito\target\site\apidocs\member-search-index.zip = 1648004628410
+D:\FP\ED\deposito\target\site\apidocs\overview-tree.html = 1648004628298
+D:\FP\ED\deposito\target\site\apidocs\package-search-index.js = 1648004628363
+D:\FP\ED\deposito\target\site\apidocs\package-search-index.zip = 1648004628394
+D:\FP\ED\deposito\target\site\apidocs\script.js = 1648004628488
+D:\FP\ED\deposito\target\site\apidocs\search.js = 1648004628488
+D:\FP\ED\deposito\target\site\apidocs\stylesheet.css = 1648004628472
+D:\FP\ED\deposito\target\site\apidocs\type-search-index.js = 1648004628394
+D:\FP\ED\deposito\target\site\apidocs\type-search-index.zip = 1648004628410
